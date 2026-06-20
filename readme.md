@@ -38,6 +38,7 @@ pyinstaller --onefile --windowed --name DeadlineCleaner --collect-all pxr deadli
 - [ ] Displacement shader doesn't modify P.
 - [ ] Singular matrix detected.
 - [ ] *(Find online answers for the unchecked items.)*
+- [ ] Need to integrate it with API directly
 
 
 
